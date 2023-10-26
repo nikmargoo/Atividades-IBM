@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+:root{
+    --color-primary: #FFFFFF;
+    --color-secondary: #feffe7;
+    --color-calc: #000000;
+    --bg-color: #000000;
+    --bg-title-color: #4a0def;
+    --bg-btn-color: #D0D0D8;
+    --bg-btn-number-color: #D8D8D8;
+    --bg-btn-equal-color: #4a0def;
+    --bg-btn-hover-color: #b1b1c0;
+}
+
+html{
+    font-family: 'Nunito', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 8px 0;
+}
+
+
 .container{
     display: flex;
     justify-content: center;
