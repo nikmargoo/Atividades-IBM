@@ -1,7 +1,7 @@
 # Atividades de Estágio
 👁️  Atividades propostas durante o 
-🐝  período de estágio na empresa para
-:m:  aperfeiçoamento de habilidades
+\n🐝  período de estágio na empresa para
+\n:m:  aperfeiçoamento de habilidades
 
 ## Conteúdo
 - Exercícios Iniciantes (Java)
